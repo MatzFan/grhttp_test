@@ -1,0 +1,27 @@
+GIT
+  remote: https://github.com/boazsegev/GRHttp.git
+  revision: 73264b27b8a70a267374fe045f26b09443d4e798
+  specs:
+    grhttp (0.1.0)
+      greactor (~> 0.1.0)
+
+GIT
+  remote: https://github.com/boazsegev/GReactor.git
+  revision: a12ef77feeb0b4c176ac426ea227f73ee1c33c92
+  specs:
+    greactor (0.1.0)
+
+GEM
+  remote: https://rubygems.org/
+  specs:
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  bundler (= 1.10.2)
+  greactor!
+  grhttp!
+
+BUNDLED WITH
+   1.10.2
